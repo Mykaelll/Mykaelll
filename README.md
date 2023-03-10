@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mykaelll&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @Mykael (Michael Momoh)
-- 👀 I’m interested in Web Development & Design and UI/UX Design With Figma
+- 👀 I’m interested in Web Developmen.... Full Stack Web Dev
 - 🌱 I’m currently learning Front-end web development 
 - 💞️ I’m looking to collaborate on different projects and tasks regarding those fields.
 - 📫 How to reach me 
